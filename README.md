@@ -34,6 +34,6 @@ Forecasting & Interactive Visuals for analysis
 🔗 Links
 
 📹 [LinkedIn Video Explanation](Your LinkedIn Video Link)
-💻 [GitHub Repo](https://github.com/SnehSharma07/CodeAlpha_RealEstateDashboard)
+💻 [GitHub Repo](https://github.com/SnehSharma07/CodeAlpha_RealEstateMarketTrends)
 
 ⭐ If you find this project useful, consider starring this repo!
